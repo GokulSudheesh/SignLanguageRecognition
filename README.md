@@ -8,3 +8,7 @@
 
 ## Reference:
 <img src="GitHubImages/asl-alphabet_wallpaper_1920x1200.png" width="500" height="440"> 
+
+### This project uses a CNN model that follows AlexNet architecture.
+<img src="GitHubImages/AlexNet-Arch.png" width="604" height="228">
+Image credits to Krizhevsky et al., the original authors of the AlexNet paper.
