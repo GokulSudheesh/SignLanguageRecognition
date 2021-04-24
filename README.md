@@ -12,3 +12,9 @@
 ### This project uses a CNN model that follows AlexNet architecture.
 <img src="GitHubImages/AlexNet-Arch.png" width="604" height="228">
 Image credits to Krizhevsky et al., the original authors of the AlexNet paper.
+
+## Notes
+The `requirements.txt` file contains all the dependencies needed for the project.
+```
+pip install -r requirements.txt
+```
