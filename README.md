@@ -1,4 +1,6 @@
 # SignLanguageRecognition
+## An overview of the model
+<img src="GitHubImages/network-diagram.jpg" width="816" height="459">
 ## Detecting from web cam:
 <img src="GitHubImages/A.jpg" width="270" height="210">  <img src="GitHubImages/B.jpg" width="270" height="210">  <img src="GitHubImages/D.jpg" width="270" height="210">
 <img src="GitHubImages/F.jpg" width="270" height="210">  <img src="GitHubImages/G.jpg" width="270" height="210">  <img src="GitHubImages/H.jpg" width="270" height="210">
