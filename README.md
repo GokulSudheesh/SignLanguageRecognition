@@ -30,4 +30,4 @@ The `requirements.txt` file contains all the dependencies needed for the project
 pip install -r requirements.txt
 ```
 [Mediapipe docs](https://google.github.io/mediapipe/solutions/hands.html)
-[Trained modela (Google Drive link)](https://drive.google.com/drive/folders/1LCBmiV4bkNyKg8ix4MCEMQQ2SJOmPh8X?usp=sharing)
+[Trained models (Google Drive link)](https://drive.google.com/drive/folders/1LCBmiV4bkNyKg8ix4MCEMQQ2SJOmPh8X?usp=sharing)
